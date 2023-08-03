@@ -8,7 +8,7 @@ public class DesafioControleCandidato {
         }
                
     }
-
+// isso é apenas um exercício para depois fazer o desafio de fato
     static void entrandoEmContato(String candidato){
         int tentativasRealizadas = 1;
         boolean continuarTentando = true;
