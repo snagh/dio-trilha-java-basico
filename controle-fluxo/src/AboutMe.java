@@ -29,3 +29,5 @@ public class AboutMe {
                 System.err.println("Os campos de idade e altura precisam ser numéricos");
         }
     }
+
+}
